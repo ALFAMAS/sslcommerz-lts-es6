@@ -1,5 +1,5 @@
 {
-  "name": "sslcommerz-lts",
+  "name": "sslcommerz-lts-es6",
   "description": "LTS package, Officially supported by SSLCommerz Integration Team Maintained by ALFAMAS.",
   "version": "2.0.0",
   "type": "module",
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ALFAMAS/sslcommerz-lts.git"
+    "url": "git+https://github.com/ALFAMAS/sslcommerz-lts-es6.git"
   },
   "keywords": [],
   "author": "ALFAMAS",
@@ -17,7 +17,7 @@
   "bugs": {
     "email": "arafat0951@gmail.com"
   },
-  "homepage": "https://github.com/ALFAMAS/sslcommerz-lts.git#readme",
+  "homepage": "https://github.com/ALFAMAS/sslcommerz-lts-es6.git#readme",
   "dependencies": {
     "axios": "^1.6.2",
     "form-data": "2.5.0"
